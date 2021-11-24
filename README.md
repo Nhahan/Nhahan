@@ -1,5 +1,9 @@
 ### Hello, my name is Sunyong. 👋
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nhahan&layout=compact&hide=Shell,Batchifile,PowerShell&langs_count=8&theme=react)](https://github.com/Nhanhan/github-readme-stats)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nhahan&show_icons=true&theme=radical)
 <br />
 <br />
