@@ -6,4 +6,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nhahan&hide=css,html,scss,ShaderLab&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nhahan&hide=css,html,scss,ShaderLab&layout=compact&langs_count=10&bg_color=151515&title_color=ffffff&text_color=ffffff)
