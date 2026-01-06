@@ -6,6 +6,5 @@
 
 **Contributions**
 
-Spring Boot [`a2160f7`](https://github.com/spring-projects/spring-boot/commit/a2160f793b2fd9b13d3149123365d6f46b026cc6)
-<br>
-PyTorch [`37b2ec3`](https://github.com/pytorch/pytorch/commit/37b2ec3f5367dc221cbe61ea3b76ceb06c3a80f6)
+* **Spring Boot** - [Relax conditions to support Virtual Threads in HttpService](https://github.com/spring-projects/spring-boot/commit/a2160f793b2fd9b13d3149123365d6f46b026cc6)
+* **PyTorch** - [Fix serialization logic for Node types in torch.fx](https://github.com/pytorch/pytorch/commit/37b2ec3f5367dc221cbe61ea3b76ceb06c3a80f6)
